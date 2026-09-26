@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Alfara 👋<br>🌏 International Developer · 🇮🇩 🇸🇦 🇵🇭<br>🤖 Building with LLMs and shaping what's next in AI<br>🌱 Currently leveling up: Web Development & LLM Engineering<br>🎮 Plot twist: I also compete as an International Esports Player 🏆<br>⚡ Whether it's code or clutch plays I show up sharp
+Hi, I'm Alfara 👋<br>🌏 International Developer · 🇮🇩 🇸🇦 🇵🇭<br>🤖 Building with LLMs and shaping what's next in AI<br>🌱 Currently leveling up: Web Development & LLM Engineering<br><br>⚡ Whether it's code or clutch plays I show up sharp
 
 
 ## 🌐 Socials:
